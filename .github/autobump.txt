@@ -297,6 +297,7 @@ brook
 broot
 brotli
 brpc
+bruno-cli
 btrfs-progs
 bubblewrap
 buf
@@ -1554,6 +1555,7 @@ kubeseal
 kubeshark
 kubespy
 kubetail
+kubetrim
 kubevela
 kubevious
 kubevpn
@@ -2023,6 +2025,7 @@ mujs
 multi-git-status
 multitail
 muon
+muparser
 murex
 musikcube
 mutt
@@ -2298,6 +2301,7 @@ payara
 payload-dumper-go
 pc6001vx
 pcapplusplus
+pcaudiolib
 pciutils
 pcl
 pcre2
@@ -2343,6 +2347,7 @@ picotool
 pidgin
 pie
 pig
+piknik
 pillow
 pinentry
 pinocchio
@@ -2400,6 +2405,7 @@ postgresql@15
 postgresql@16
 postgresql@17
 postgrest
+posting
 poutine
 powerline-go
 powerman
@@ -3013,6 +3019,7 @@ titlecase
 tkey-ssh-agent
 tlsx
 tmpmail
+tmt
 tmux-mem-cpu-load
 tmux-sessionizer
 tmux-xpanes
